@@ -12,3 +12,7 @@ Menambah component pada route
 ## 235. Working on the Main Layout & Styling
 
 Mengerjakan layout utama
+
+## 236. Wiring Up Pages
+
+Mennyambungkan page lainnya
