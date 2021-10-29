@@ -16,3 +16,7 @@ Mengerjakan layout utama
 ## 236. Wiring Up Pages
 
 Mennyambungkan page lainnya
+
+## 237. Adding Vuex and Coach Data
+
+Menambahkan vuex dan data coach
