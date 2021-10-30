@@ -28,3 +28,7 @@ Mengerjakan coach list dan list item
 ## 239. Adding a Couple of Base Components (Base Card, Base Button, Base Badge)
 
 Menambah beberapa komponen basic
+
+## 240. Building the Coach Detail Component
+
+Membangun komponen detail pelatih
