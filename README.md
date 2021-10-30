@@ -40,3 +40,7 @@ Memfilter pelatih
 ## 242. Registering as a Coach: The Form
 
 Form pendaftaran pelatih
+
+## 243. Adding Coaches to Vuex
+
+Menggunakan vuex untuk menambah pelatih
