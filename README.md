@@ -44,3 +44,7 @@ Form pendaftaran pelatih
 ## 243. Adding Coaches to Vuex
 
 Menggunakan vuex untuk menambah pelatih
+
+## 244. Adding Form Validation
+
+Membuat validasi form
