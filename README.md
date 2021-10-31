@@ -48,3 +48,11 @@ Menggunakan vuex untuk menambah pelatih
 ## 244. Adding Form Validation
 
 Membuat validasi form
+
+## 245. Working on the Contact Form
+
+Mengerjakan form kontak
+
+## 246. Storing Requests (Messages) With Vuex
+
+Menyimpan pesan dengan Vuex
